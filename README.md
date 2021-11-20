@@ -47,7 +47,6 @@ In **Supervised Learning** we have :
 
 
 ## Data Used :
-           wc_at: for given waist predicted AT value using linear model,
            del_time: depending upon sorting time we have predicted delivary time using linear model,
            salary_data: for given experience predicted salary hike using linear model
           
@@ -55,6 +54,6 @@ In **Supervised Learning** we have :
           Python
  
  
-**The Codes regarding this Linear Regression model with three different business problems *salary hike prediction* ,*delivary time prediction*, *AT prediction* with their datasets are present in this Repository in detail**
+**The Codes regarding this Linear Regression model with two different business problems *salary hike prediction* ,*delivary time prediction*,  with their datasets are present in this Repository in detail**
           
 
